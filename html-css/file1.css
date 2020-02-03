@@ -1,5 +1,5 @@
 .back {
-  background-image: url("./images/banner.jpg");
+  background-image: url("../images/banner.jpg");
   color: white;
   text-align: center;
 }
@@ -25,4 +25,56 @@
 
   margin-left: 350px;
   margin-right: 350px;
+}
+
+.button {
+  color: white;
+  background-color: rgb(236, 81, 81);
+  border: none;
+  margin-top: 100px;
+  padding: 10 10 10 10;
+}
+
+.banner-bottom {
+  padding-top: 100px;
+}
+.content {
+  display: inline-block;
+  width: 30%;
+  margin: 20px;
+  padding: 30 20 0 20;
+}
+
+.content-space {
+  align-content: center;
+}
+h6 {
+  text-align: center;
+  font-weight: 700;
+}
+
+.content-bottom {
+  padding-top: 150px;
+}
+
+.images {
+  float: left;
+  width: 25%;
+}
+
+.image-bottom {
+  padding-top: 100px;
+}
+
+.bottom {
+  text-align: center;
+  font-style: bold;
+}
+
+.dl-btn {
+  background-color: rgb(228, 78, 78);
+  color: white;
+  border: none;
+  margin-left: 600px;
+  padding: 15 15 15 15;
 }

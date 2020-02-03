@@ -20,3 +20,9 @@
 .nav-link {
   color: white;
 }
+.banner-content {
+  padding-top: 75px;
+
+  margin-left: 350px;
+  margin-right: 350px;
+}
